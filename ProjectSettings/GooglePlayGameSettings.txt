@@ -1,0 +1,6 @@
+lastUpgrade=00926
+proj.AppId=63569945902
+proj.ConstantsClassName=GPG.ConstNames
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e63569945902%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.FunLittleGames.TowerBalance%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_scores%22%3eCgkIrsrB6OwBEAIQAA%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=63569945902-m02n25t7cmpcvaugeo42f5smuh45dmta.apps.googleusercontent.com
+android.SetupDone=true
